@@ -1,3 +1,4 @@
 # apnacollege-demo
 This is my repository.
-Author = Saurabh Pandey.
+<br>
+Author - Saurabh Pandey.
